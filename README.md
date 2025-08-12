@@ -6,6 +6,8 @@ This system demonstrates a powerful multi-agent workflow where specialized AI ag
 
 Perfect for exploring how multi-agent AI systems can work together to solve complex tasks! 🚀
 
+---
+
 ### 🧩 Project Overview
 
 This project orchestrates multiple AI agents using LangGraph's graph-based workflow:
@@ -21,7 +23,7 @@ This project orchestrates multiple AI agents using LangGraph's graph-based workf
 
 ---
 
-## 🛠️ Core Components
+### 🛠️ Core Components
 
 ### Agents
 
