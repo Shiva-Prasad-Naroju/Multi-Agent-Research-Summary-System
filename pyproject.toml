@@ -1,0 +1,17 @@
+[project]
+name = "multi-agent-research-summary-system"
+version = "0.1.0"
+description = "This is a Simple Multi AI Agent Research and Summary system."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.5.2",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-groq>=0.3.7",
+    "langgraph>=0.6.4",
+    "plotly>=6.2.0",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.48.0",
+]
