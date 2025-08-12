@@ -77,6 +77,8 @@ These agents work together to research, summarize, and deliver clear and informa
 
 ![Screenshot 3](results/st3.png)
 
+---
+
 ### 🎯 Why This Project?
 
 - Demonstrates multi-agent AI collaboration using a graph-based workflow.
