@@ -69,7 +69,11 @@ These agents work together to research, summarize, and deliver clear and informa
 ### Results:
 ![Screenshot 1](results/st1.png)
 
+---
+
 ![Screenshot 2](results/st2.png)
+
+---
 
 ![Screenshot 3](results/st3.png)
 
