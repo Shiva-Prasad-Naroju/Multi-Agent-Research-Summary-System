@@ -66,7 +66,12 @@ These agents work together to research, summarize, and deliver clear and informa
 
 - "Tell me about the Agent2Agent protocol by Microsoft."
 
----
+### Results:
+![Screenshot 1](results/st1.png)
+
+![Screenshot 2](results/st2.png)
+
+![Screenshot 3](results/st3.png)
 
 ### 🎯 Why This Project?
 
