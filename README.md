@@ -6,7 +6,7 @@ This system demonstrates a powerful multi-agent workflow where specialized AI ag
 
 Perfect for exploring how multi-agent AI systems can work together to solve complex tasks! 🚀
 
-## 🧩 Project Overview
+### 🧩 Project Overview
 
 This project orchestrates multiple AI agents using LangGraph's graph-based workflow:
 
@@ -38,7 +38,9 @@ These agents work together to research, summarize, and deliver clear and informa
 - **DuckDuckGo Search Tool** 🌐  
   Implements web search via the `ddgs` package (DuckDuckGo Search API) to fetch real-time information. The researcher agent uses this to access fresh knowledge from the internet without relying on paid APIs.
 
-## ⚙️ How It Works
+---
+
+### ⚙️ How It Works
 
 1. The user provides a query (e.g., "Summarize recent research on graph neural networks in multi-agent collaboration").
 
@@ -50,6 +52,8 @@ These agents work together to research, summarize, and deliver clear and informa
 
 5. The system returns the polished summary to the user.
 
+---
+
 ### 💡Example Queries to Test
 
 - "Explain the Agent to Agent concept in AI Agents."
@@ -60,6 +64,7 @@ These agents work together to research, summarize, and deliver clear and informa
 
 - "Tell me about the Agent2Agent protocol by Microsoft."
 
+---
 
 ### 🎯 Why This Project?
 
@@ -70,5 +75,7 @@ These agents work together to research, summarize, and deliver clear and informa
 - Showcases how specialized agents can delegate tasks efficiently.
 
 - Builds a foundation for more complex AI systems like research assistants, customer support bots, or enterprise knowledge workflows.
+
+---
 
 Thank you for exploring the Multi-Agent Research Summary System! Feel free to contribute or raise issues. Happy coding! 🚀✨
